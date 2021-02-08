@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+}
+
+h2, h5 {
+  margin: 0;
+}
+
+h5 {
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+.policy-text {
+  padding: 0 100px;
+}
+
+.privacy-link {
+  font-size: 16px;
+  color: #fff;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+  border-radius: 35px;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
