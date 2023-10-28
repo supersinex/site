@@ -37,7 +37,7 @@ function Home() {
     </p>
       <a
         className="App-link"
-        href="https://reactjs.org"
+        href="https://apps.apple.com/us/app/phantom-countdown/id1549294840"
         target="_blank"
         rel="noopener noreferrer"
       >
