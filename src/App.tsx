@@ -54,7 +54,7 @@ function PrivacyPolicy() {
       <h2>Privacy Policy</h2>
       <p className="policy-text">
         All data in Phantom Countdown is stored locally on your device. None of your data is shared with the app developer or
-        any oter entities; furthermore, it is managed entirely by the end user.
+        any other entities; furthermore, it is managed entirely by the end user.
     </p>
     </header>
   </div>
